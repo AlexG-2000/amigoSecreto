@@ -1,4 +1,4 @@
-# amigoSecreto
+# Amigo Secreto
 
 Es un desafio de Alura, donde se utiliza HTML, CSS y JavaScript.
 
